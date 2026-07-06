@@ -2,7 +2,7 @@
 
 A first-person psychological horror game developed with **Unity** and **C#**.
 
-**Project Period:** June 2025 - June 2026
+**Project Period:** March 2025 - June 2026
 
 ---
 
