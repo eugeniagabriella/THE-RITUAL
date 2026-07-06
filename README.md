@@ -2,6 +2,10 @@
 
 A first-person psychological horror game developed with **Unity** and **C#**.
 
+**Project Period:** June 2025 - June 2026
+
+---
+
 ## Overview
 
 **THE RITUAL** places players inside an abandoned house with no memory of how they arrived. As they explore the mysterious environment, they discover they are not alone. Players must solve puzzles, search for clues, and uncover the truth behind a forgotten ritual while avoiding the unseen threat lurking in the darkness.
