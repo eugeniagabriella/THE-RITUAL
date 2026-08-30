@@ -1,6 +1,8 @@
 # THE RITUAL
 A first-person psychological horror game developed with **Unity** and **C#**.
 
+**Project Type:** Solo Project
+
 **Project Period:** March 2025 – June 2026
 
 ---
@@ -38,7 +40,7 @@ The game combines exploration, environmental storytelling, puzzle-solving, and a
 
 ## My Role
 
-This project was developed as a **solo project**, covering the complete development process from concept to release.
+Covering the complete development process from concept to release.
 
 ### Responsibilities
 
