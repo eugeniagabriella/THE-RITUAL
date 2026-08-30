@@ -38,7 +38,6 @@ public class MonsterAI : MonoBehaviour
     Vector3 noiseTarget;
     bool investigatingNoise;
 
-    // ================= ADDITION (ANIMATION) =================
     Animator anim;
 
     void Start()
@@ -72,6 +71,7 @@ public class MonsterAI : MonoBehaviour
             return;
         }
 
+        // Prevent the monster from detecting or chasing the player across different floors.
         if (heightDiff > maxHeightDifference)
         {
             ResetState();
@@ -80,6 +80,7 @@ public class MonsterAI : MonoBehaviour
             return;
         }
 
+        // Chase only when the player is within range and visible.
         if (distance <= chaseDistance && CanSeePlayer())
         {
             StartChase();
@@ -317,7 +318,7 @@ public class MonsterAI : MonoBehaviour
         }
     }
 
-    // ================= ADDITION (ANIMATION SYSTEM) =================
+// ================= ANIMATION =================
     void UpdateAnimation()
     {
         if (anim == null || agent == null) return;
