@@ -1,4 +1,5 @@
 # THE RITUAL
+![THE RITUAL Gameplay](GAME.gif)
 
 A first-person psychological horror game developed with **Unity** and **C#**.
 
